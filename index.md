@@ -58,7 +58,7 @@ The comparisons of HUST-ART and other datasets:
 
 ### Tana
 *   The first diverse and large synthetic Amharic recognition dataset.
-*   Consists of 2851778 synthetic word images, including the 829394 HUST-AST cropped text images.
+*   Consists of 2,851,778 synthetic word images, including the 829394 HUST-AST cropped text images.
 *   Various scenes.
 
 ### Visualizations of Recognition
