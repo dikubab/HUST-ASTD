@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# HUST-ASTD
+# Comprehensive Benchmark Datasets for Amharic Scene Text Detection and Recognition
 
 In this work, we presented four datasets named HUST-ART, HUST-AST, ABE, and Tana for Amharic script detection and recognition in the nature scene. The proposed datasets are the first comprehensive and public Amharic script datasets to the best of our knowledge. These datasets will promote the development of robust Amharic script detection and recognition algorithms. Consequently, the outcome will benefit people in East Africa, including diplomats from several countries and international communities.
 
