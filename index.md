@@ -65,7 +65,7 @@ The comparisons of HUST-ART and other datasets:
 ![Octocat](images/recognition_results.jpg)
 
 ### Visualizations of Recognition
-![Octocat](images/end_to_end_results2.jpg)
+![Octocat](images/end_to_end_results.jpg)
 
 ## Leaderboard of detection
 
