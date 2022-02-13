@@ -87,9 +87,9 @@ Results on ABE dataset:
 | :----------- | :---------------- |
 | CRNN         | 75.91 			   |
 | RARE         | 78.13             |
-| ASTER        | 81.4              |
+| ASTER        | 81.40              |
 | SATRN        | 85.66             |
-| MASTER       | 86.5              |  
+| MASTER       | 86.50              |  
 
 
 Results on HUST-ART dataset:
@@ -98,16 +98,16 @@ Results on HUST-ART dataset:
 | :----------- | :----------------|
 | CRNN   	   | 80.26 			  |
 | RARE         | 82.05 			  |
-| ASTER        | 85.3  			  |
+| ASTER        | 85.30  			  |
 | SATRN        | 87.54 			  |
-| MASTER       | 87.7             |
+| MASTER       | 87.70             |
 
 ## Leaderboard of End-to-end detection and recognition
 
 | Method               | E2E      | Precision | Recall | F1-measure | 
 | :--------------------| :------- | :-------- | ------ | ---------- | 
 | PAN++                | 30.31    | 93.38     | 30.06  | 45.48      | 
-| Mask TextSpotter v3  | 81.71    | 88.31     | 80.82  | 84.40      | 
+| Mask TextSpotter v3  | 71.23    | 88.31     | 80.82  | 84.40      | 
 
 E2E refer to the End-to-end recognition accuracy rate.
 ## Contact
